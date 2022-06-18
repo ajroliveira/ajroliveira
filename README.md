@@ -7,7 +7,7 @@
 
 🧑‍💼 Atualmente trabalhando como Analista de Suporte.
 <br>
-🧑‍🎓 Estudando HTML5/CSS/JS/REACT. Saindo da área de infraestrutura e iniciando na área de Front-end.
+🧑‍🎓 Estudando HTML5/CSS/JS/REACT. Migrando da área de infraestrutura e iniciando na área de Front-end.
 <br>
 📩 Posso responder na seguinte caixa de e-mail: ajr.oliveira2021@gmail.com
 ##
